@@ -19,7 +19,7 @@ A página contém informações sobre o local, imagens ilustrativas e estilizaç
 
 ---
 
-## 🎨 Funcionalidades
+##  Funcionalidades
 
 - Estruturação semântica em HTML
 - Estilização com CSS
@@ -29,4 +29,8 @@ A página contém informações sobre o local, imagens ilustrativas e estilizaç
 - Bordas e espaçamentos estilizados
 
 ---
+
+Imagem do projeto anexada.
+
+
 
