@@ -1,0 +1,45 @@
+
+body {
+  background-color: #602a80;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 1000px;
+  border-color: black;  
+  margin: 0 auto;   
+  padding: 20px;  
+  border: 1px, black;  
+}
+
+
+h1, h2, h3 {
+  color: black;
+  text-align: center;
+  border: 2px, black;
+}
+
+.ponto-turistico {
+  border-color: #000000 #000000 #000000 #000000;    
+  padding: 20px;  
+  border: 2px solid #000000;
+  margin-bottom: 20px;
+  background-color: #400c4c;
+}
+ 
+img {
+width: 400px;
+border-radius: 10px;
+ display: block;
+  margin: 0 auto;
+  margin-bottom: 70px;
+  margin-top: 70px;
+
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
